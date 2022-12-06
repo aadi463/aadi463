@@ -1,5 +1,5 @@
  <!-- markdownlint-disable-next-line -->
-<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=pnkr01&linkedin=pawan-kumar-9490581b5&twitter=Pawankr21_9"/>
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=aadi463&linkedin=aditya-gaurav-30aa48246&twitter=aadi463"/>
 
 - Hackathon Enthusiast Person :smile:
 - Interested in React Js, Node Js, Next Js. :grinning:
